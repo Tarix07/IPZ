@@ -13,6 +13,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("Text in NewFeature");
+            Console.WriteLine("New Fiture by Alex");
         }
     }
 }
