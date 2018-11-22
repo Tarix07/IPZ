@@ -6,4 +6,4 @@ change in new_branch
 change in new_branch by Taras
 
 changes in master
-
+changes in new_branch1
